@@ -32,12 +32,11 @@ func main() {
 	for {
 		// example usage for ScrollText - the dynamic data source
 		// is called to update values at each iteration.
-		pidisplay.ScrollText(lcd, 2, updateTemp())
-
+		pidisplay.ScrollText(lcd, 2, updateValue())
 	}
 }
 
-func updateTemp() string {
+func updateValue() string {
 	d := pitemp.GetData()
 	text := fmt.Sprintf("Temp: %.1fC, Humidity: %.1f%%", d.Temperature, d.Humidity)
 

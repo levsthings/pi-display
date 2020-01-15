@@ -1,0 +1,6 @@
+github.com/levsthings/go-i2c v1.0.1 h1:G/S8TCP0Lw1Lw5v+Q1sTAwG2ALzsmc8fGePKguIb9sI=
+github.com/levsthings/go-i2c v1.0.1/go.mod h1:1HHdzVhncWPGhEvBDM0Y9JZojww+jm4/wny41ZA9ibM=
+github.com/levsthings/lcd16x2-driver v1.0.1 h1:K7ugthuZpKbr+TIqhPhpeLczA7cZeUSbbT+RJDLJ6zU=
+github.com/levsthings/lcd16x2-driver v1.0.1/go.mod h1:eReOU/sNjmbT0J9n+0atmqCKTMtHr4KERR1oMw01kq8=
+github.com/levsthings/pi-temp v1.1.0 h1:NpX1AnhYCkEBitrT12CuqX+KH0Psd/+tF45Ia4pM7uo=
+github.com/levsthings/pi-temp v1.1.0/go.mod h1:XdAfscrz6zm+f4XYmATP3/RBxRQfoYFv+RD636GzK1A=
